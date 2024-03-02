@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+    background-color: rgba(128, 128, 128, 0.471);
+}
+
+h1 {
+    font-size: 70px;
+}
+
+span {
+    color: rgba(255, 166, 0, 0.828);
+}
